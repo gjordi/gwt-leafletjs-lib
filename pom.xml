@@ -4,7 +4,7 @@
 
 	<groupId>com.bytebybyte.gwt</groupId>
 	<artifactId>leafletjs-lib</artifactId>
-	<version>0.7.3</version>
+	<version>0.7.4-SNAPSHOT</version>
 
 	<name>Leaflet Library</name>
 	<description>Leaflet Library for GWT</description>
@@ -37,7 +37,7 @@
 		<connection>scm:git:git@github.com:gjordi/gwt-leafletjs-lib.git</connection>
 		<developerConnection>scm:git:git@github.com:gjordi/gwt-leafletjs-lib.git</developerConnection>
 		<url>git@github.com:gjordi/gwt-leafletjs-lib.git</url>
-	  <tag>leafletjs-lib-0.7.3</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<issueManagement>
