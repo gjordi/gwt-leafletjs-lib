@@ -1,0 +1,14 @@
+<module>
+
+	<!-- Required modules -->
+	<inherits name="com.google.gwt.user.User" />
+
+	<!-- Stylesheets. -->
+	<stylesheet src="leafletjs/css/leaflet.css" />
+
+	<!-- Source paths. -->
+	<source path="client" />
+
+	<!-- Entry point -->
+	<entry-point class="com.bytebybyte.gwt.leafletjs.client.LeafletLibConfigurerEntryPoint" />
+</module>
